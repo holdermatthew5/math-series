@@ -2,6 +2,8 @@ Author: Matthew Holder
 
 Version: 0.1.0
 
+Last PR: https://github.com/holdermatthew5/math-series/pull/1#issue-535680498
+
 Problem Domain:
 - Create a method that takes in a number (n) and returns the nth number in the Fibonacci sequence.
 - Create a method that takes in a number (n) and returns the nth number of the lucas numbers.
