@@ -36,3 +36,13 @@ def sum_series(n, x=0, y=1):
         if (i == n - 3):
             return y
         i += 1
+
+# Learning opportunity: Decreasing module size while maintaining functionality???
+
+# Fibonacci
+# def fibonacci(n):
+#     return sum_series(n, 0, 1)
+
+# Lucas
+# def lucas(n):
+#     return sum_series(n, 2, 1)
